@@ -1,0 +1,14 @@
+1 => Please provide API token
+2 => API token is not valid
+3 => API token is deactivated
+4 => API token hit limits exceeded
+5 => Data not found
+6 => Data found
+7 => Provied user id for Delete
+8 => Data not found for Delete
+9 => Data Deleted
+10 => Provied user First name and Last name
+11 => Data not Inserted
+12 => Data Inserted
+13 => Data not Updated
+14 => Data Updated
